@@ -1,1 +1,1 @@
-Azur2S3FileTransfer
+Azur2S3FileTransferWithRabbitMQ
